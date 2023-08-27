@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/projetomarvelbasf/static/css/main.9c7709f8.css",
+    "main.js": "/projetomarvelbasf/static/js/main.49e797c4.js",
+    "static/js/787.0f806aa2.chunk.js": "/projetomarvelbasf/static/js/787.0f806aa2.chunk.js",
+    "static/media/4085925-marvelsnaplowestwinratecard.jpg": "/projetomarvelbasf/static/media/4085925-marvelsnaplowestwinratecard.225efa8083a340d3fed4.jpg",
+    "static/media/foto de perfil.png": "/projetomarvelbasf/static/media/foto de perfil.49fdfb5d82f3efcdda05.png",
+    "static/media/marvel-logo-4.png": "/projetomarvelbasf/static/media/marvel-logo-4.568d8c629c2dc34e2ac4.png",
+    "static/media/BASF-Logo_bw.svg.png": "/projetomarvelbasf/static/media/BASF-Logo_bw.svg.e00c32ce314549ea8b04.png",
+    "index.html": "/projetomarvelbasf/index.html",
+    "main.9c7709f8.css.map": "/projetomarvelbasf/static/css/main.9c7709f8.css.map",
+    "main.49e797c4.js.map": "/projetomarvelbasf/static/js/main.49e797c4.js.map",
+    "787.0f806aa2.chunk.js.map": "/projetomarvelbasf/static/js/787.0f806aa2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c7709f8.css",
+    "static/js/main.49e797c4.js"
+  ]
+}
